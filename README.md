@@ -3,7 +3,7 @@ Projects I've done while studying at the Practicum by Yandex in Data Science cou
 
 | Project              | Description           | Stack                     |
 | :-------------------- | :------------------------------------------------- |:---------------------------|
-| [Video Games Analysis](https://github.com/mo-hai/praktikum_projects/tree/main/game_EDA_SDA) | Exploratory and Statistical Data Analysis of video games sales. | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *plotly* |
+| [Video Games Analysis](https://github.com/mo-hai/praktikum_projects_eng/tree/main/game_EDA_SDA) | Exploratory and Statistical Data Analysis of video games sales. | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *plotly* |
 | [Telecom Analysis](https://github.com/mo-hai/praktikum_projects/tree/main/telecom_SDA_EDA) | Exploratory and Statistical Data Analysis of telecom tariffs. | *pathlib*, *datetime*, *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
 | [Telecom Tariff](https://github.com/mo-hai/praktikum_projects/tree/main/telecom_classification) | Trained model to select tariff for advertising to a client of telecom company. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn* |
 | [Bank churn](https://github.com/mo-hai/praktikum_projects/tree/main/bank_churn_classification) | Trained model to predict clients churn from the bank. | *pandas*, *matplotlib*, *seaborn*, *sklearn* |
